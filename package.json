@@ -1,0 +1,17 @@
+{
+  "name": "ibk-addition",
+  "version": "0.0.1",
+  "description": "it helps you add using the addition method devised by professor Ibk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "addition",
+    "novel",
+    "research",
+    "academic"
+  ],
+  "author": "Professor IBK",
+  "license": "ISC"
+}
