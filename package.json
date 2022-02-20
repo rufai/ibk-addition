@@ -1,6 +1,6 @@
 {
   "name": "ibk-addition",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "it helps you add using the addition method devised by professor Ibk",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,10 @@
     "research",
     "academic"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rufai/ibk-addition.git"
+  },
   "author": "Professor IBK",
   "license": "ISC"
 }
